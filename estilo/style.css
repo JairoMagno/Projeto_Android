@@ -126,23 +126,23 @@ img.pequena{
     background-color: #1A5C38;
     margin: 0px -30px 20px -30px;
     padding: 20px;
-    padding-bottom: 58%;
+    padding-bottom: 56.5%;
     position: relative;
 }
 
 #youtube > iframe{
     position: absolute;
-    top: 0.5%;
-    left: 2.5%;
-    width: 90%;
-    height: 90%;
+    top: 1%;
+    left: 4%;
+    width: 85%;
+    height: 85%;
 }
 
 iframe{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 20px;
+    padding: 30px;
 }
 
 aside{
