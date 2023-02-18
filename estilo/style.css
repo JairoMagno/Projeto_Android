@@ -122,7 +122,10 @@ img.pequena{
 }
 
 
-#youtube{
+main > #Historia > #youtube{
+    max-width: 100%;
+    vertical-align: top;
+    overflow: hidden;
     background-color: #1A5C38;
     margin: 0px -30px 20px -30px;
     padding: 20px;
